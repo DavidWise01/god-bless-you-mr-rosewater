@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "eliot-rosewater",
+    "name": "Eliot Rosewater",
+    "epithet": "Alcoholic, conscience-stricken multimillionaire who runs the",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Eliot Rosewater:GBR:65acaa⟧"
+  },
+  {
+    "slug": "senator-lister-ames-rosewater",
+    "name": "Senator Lister Ames Rosewater",
+    "epithet": "Eliot's conservative father, appalled by his son's downward ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Senator Lister Ames Rosewater:GBR:a6618f⟧"
+  },
+  {
+    "slug": "sylvia-rosewater",
+    "name": "Sylvia Rosewater",
+    "epithet": "Eliot's wife, driven to breakdown by his obsession.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Sylvia Rosewater:GBR:419853⟧"
+  },
+  {
+    "slug": "fred-rosewater",
+    "name": "Fred Rosewater",
+    "epithet": "The down-and-out Rhode Island cousin — the rival branch of t",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Fred Rosewater:GBR:29e5f0⟧"
+  },
+  {
+    "slug": "norman-mushari",
+    "name": "Norman Mushari",
+    "epithet": "The young lawyer scheming to declare Eliot insane and move t",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Norman Mushari:GBR:8659ef⟧"
+  },
+  {
+    "slug": "kilgore-trout",
+    "name": "Kilgore Trout",
+    "epithet": "The obscure SF author Eliot reveres — appears at the end to ",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Kilgore Trout:GBR:194f9d⟧"
+  },
+  {
+    "slug": "the-rosewater-foundation",
+    "name": "The Rosewater Foundation",
+    "epithet": "The vast tax-shelter fortune Eliot turns into an open-door c",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Rosewater Foundation:GBR:2e97cd⟧"
+  },
+  {
+    "slug": "god-bless-you-mr-rosewater",
+    "name": "“God bless you, Mr. Rosewater”",
+    "epithet": "Eliot's telephone benediction to anyone who calls his charit",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦“God bless you, Mr. Rosewater”:GBR:fb879f⟧"
+  }
+]
