@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "“There's only one rule that I know of, babies — God damn it, you've got to be kind.”",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 909,
+    "prev": "77b7f1daebbb8994eddf3e21202a392f56e390d5e4f74b953fbd7faf4abc7364",
+    "link": "446fc15ebf1f16065fbceed6974a4570089e659aa819b7a3eeb3c6763a02752c",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
